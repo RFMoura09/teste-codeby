@@ -2,7 +2,7 @@
 
 ##
 
-#####Dependência(s)
+##### Dependência(s)
 
 - Node.js v12.13.0 ou superior <br/><br/>
 
